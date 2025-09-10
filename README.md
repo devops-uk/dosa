@@ -1,4 +1,1 @@
-# dosa
-
-# Karam doa 
-* dosa is good 
+This is an General file. 
